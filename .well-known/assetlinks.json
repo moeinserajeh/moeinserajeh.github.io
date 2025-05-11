@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ir.stts.bjt",
+      "sha256_cert_fingerprints": ["C7:F6:48:98:D7:C8:1D:2D:A4:D6:F8:9F:C7:BC:F0:E6:5F:0A:B2:61:A3:07:93:6F:DA:17:DF:AE:78:C1:66:84"]
+    }
+  }
+]
